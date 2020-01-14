@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>진영이가 최고야</h1>
+<h1>진영이가 최고야!</h1>
 </body>
 </html>
